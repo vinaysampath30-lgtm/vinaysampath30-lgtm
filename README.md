@@ -1,57 +1,74 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Vinay Sampath</h1>
+<h1 align="center">Hi 👋 I'm Vinay Sampath</h1>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<p align="center">
+  B.Tech Computer Science and Information Technology, Koneru Lakshmaiah University · Hyderabad, India
+</p>
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" alt="vinaysampath30-lgtm's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=vinaysampath30-lgtm&theme=nightowl&hide_border=true&cache_seconds=86400" alt="vinaysampath30-lgtm's GitHub Streak" width="49%" />
-</p>
+- 💻 I work on systems programming (C, Linux), full-stack web development (React, Node.js, TypeScript) and databases (PostgreSQL, MongoDB).
+- 🔍 Interested in AI and multi-agent systems, fintech, data engineering and automation.
+- 🧩 3★ on CodeChef (Division 2).
+- 🎯 Open to software engineering internships and hackathon teams.
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" alt="vinaysampath30-lgtm's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" alt="vinaysampath30-lgtm's Activity Graph" />
-</p>
+## 🚀 Featured Projects
+
+### [Linux Dynamic Memory Allocator & Monitor](https://github.com/vinaysampath30-lgtm/KLH-CSIT-2026-12-Linux-Dynamic-Memory-Allocation-and-Memory-Monitoring-System)
+`C` `Linux` `ncurses` `Make` `GitHub Actions` · Team project
+
+- Custom allocator (`libmyalloc.so`) loadable via `LD_PRELOAD`, with size-class free lists, best-fit search, splitting, coalescing and `sbrk`/`mmap` backing.
+- Heap integrity checks, plus a `/proc`-based process monitor with a terminal UI and a local JSON API.
+
+### [NexusPay Banking](https://github.com/vinaysampath30-lgtm/Cross-platform-Transaction-for-banking-and-fintech)
+`TypeScript` `Node.js` `PostgreSQL` `MongoDB` `Docker` · In progress
+
+- Authentication with JWTs, cookies and OTP challenges; accounts, beneficiaries and transaction search APIs.
+- Fund transfers update balances and write ledger entries in a single database transaction.
+
+### Agentic Decision Engine
+`React` `Vite` `Node.js` `Express` `Tailwind CSS`
+
+- Turns user preferences into explainable recommendations through a six-stage workflow, using the Qloo API with a local demo-data fallback.
+- Streams live progress and shows a five-factor score on every result.
+
+### [TracePilot AI](https://github.com/vinaysampath30-lgtm/NIVIDEA-HACKTON)
+`Python` `FastAPI` `SQLite` `NVIDIA Nemotron` · Built for the Nebius × NVIDIA Global AI Hackathon 2026
+
+- Incident-response agent that separates reported claims from verified evidence and hypotheses, and keeps a human in the loop for consequential actions.
+
+### [CampusGuard AI](https://github.com/vinaysampath30-lgtm/aws-hackton)
+`JavaScript` `Node.js` `HTML` `CSS` · Hackathon MVP
+
+- Accessible web interface and small prediction API. The current version uses a rule-based demo classifier, not a trained model.
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+| Area | Tools |
+| --- | --- |
+| **Languages** | C, Java, Python, TypeScript, JavaScript, SQL |
+| **Systems** | Linux, POSIX APIs, memory management, pthreads, shell scripting |
+| **Web & Backend** | React, Vite, Tailwind CSS, Node.js, Express, FastAPI, REST APIs, JWT |
+| **Databases** | PostgreSQL, MongoDB, SQLite |
+| **Tools** | Git, GitHub Actions, Docker, Docker Compose, Valgrind, ASan/UBSan, Vitest |
+| **Core CS** | Data Structures & Algorithms, OOP, Operating Systems, DBMS |
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+## 🏆 Competitive Programming & Hackathons
 
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+- **CodeChef:** 3★ (Division 2) · peak rating 1672 · 193 problems solved across 16 contests · Bronze badges for Contest Contender and Problem Solver
+- **Smart India Hackathon:** Automatic Clothes Dispenser, designing the system and automation logic
+- **Datathon (AI for IT Sectors):** machine learning model to predict project completion time from historical team data
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+## 📊 GitHub Activity
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" alt="GitHub stats for vinaysampath30-lgtm" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=vinaysampath30-lgtm&theme=nightowl&hide_border=true" alt="GitHub streak for vinaysampath30-lgtm" width="49%" />
+</p>
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" alt="Contribution heatmap for vinaysampath30-lgtm" width="100%" />
+</p>
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" />
-</picture>
-
-<div align="center">
-  <!---->
-</div>
-
-<p align="center"><sub>vinaysampath30-lgtm · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+📫 [vinaysampath30@gmail.com](mailto:vinaysampath30@gmail.com)
