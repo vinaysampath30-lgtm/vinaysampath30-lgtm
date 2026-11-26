@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋 I'm Vinay Sampath</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Vinay Sampath</h1>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <p align="center">
   B.Tech Computer Science and Information Technology, Koneru Lakshmaiah University · Hyderabad, India
@@ -43,14 +45,24 @@
 
 ## 🛠️ Languages & Tools
 
-| Area | Tools |
-| --- | --- |
-| **Languages** | C, Java, Python, TypeScript, JavaScript, SQL |
-| **Systems** | Linux, POSIX APIs, memory management, pthreads, shell scripting |
-| **Web & Backend** | React, Vite, Tailwind CSS, Node.js, Express, FastAPI, REST APIs, JWT |
-| **Databases** | PostgreSQL, MongoDB, SQLite |
-| **Tools** | Git, GitHub Actions, Docker, Docker Compose, Valgrind, ASan/UBSan, Vitest |
-| **Core CS** | Data Structures & Algorithms, OOP, Operating Systems, DBMS |
+### Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" /></p>
+
+### Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" title="Vite" width="48" height="48" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="48" height="48" /></p>
+
+### Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48" /></p>
+
+### Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" title="SQLite" width="48" height="48" /></p>
+
+### Systems, DevOps & Tools
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="48" height="48" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" /></p>
+
+**Also:** SQL · POSIX APIs · memory management · pthreads · shell scripting · REST APIs · JWT · Docker Compose · Valgrind · ASan/UBSan · Vitest
+
+**Core CS:** Data Structures & Algorithms · OOP · Operating Systems · DBMS
 
 ## 🏆 Competitive Programming & Hackathons
 
@@ -66,9 +78,17 @@
 </p>
 
 <p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" alt="Top languages for vinaysampath30-lgtm" />
+</p>
+
+<p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=vinaysampath30-lgtm&theme=github-dark&mode=dark" alt="Contribution heatmap for vinaysampath30-lgtm" width="100%" />
 </p>
 
 ## 🔗 Connect with Me
 
-📫 [vinaysampath30@gmail.com](mailto:vinaysampath30@gmail.com)
+<p align="center"><a href="mailto:vinaysampath30@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" /></a></p>
+
+<p align="center"><a href="mailto:vinaysampath30@gmail.com">vinaysampath30@gmail.com</a></p>
+
+<p align="center"><sub>vinaysampath30-lgtm · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
